@@ -13,10 +13,10 @@ var typed = new Typed(".typing", {
   strings: [
     "",
     "Web",
-    "Web Designer",
-    "Web Developer",
-    "Graphic Designer",
-    "Content Creator",
+    "Back End",
+    "Front End",
+    "Java Script",
+
   ],
   typeSpeed: 100,
   BackSpeed: 60,
