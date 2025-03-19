@@ -12,10 +12,12 @@ Copyright: 2023 ©MdRasen
 var typed = new Typed(".typing", {
   strings: [
     "",
-    "Web",
-    "Back End",
-    "Front End",
-    "Java Script",
+    " ( Full Stack ) ",
+    " ( Java Script ) ",
+    " ( NMAP ) ",
+    " ( BurpSUITE ) ",
+    " ( Wireshark ) ",
+    " ( etc... ) ",
 
   ],
   typeSpeed: 100,
